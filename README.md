@@ -1,1 +1,3 @@
 # Packet-Sniffing-in-Cybersecurity
+
+Packet sniffing is a cybersecurity technique used to intercept and monitor network traffic. It involves capturing data packets as they traverse a network, allowing an observer to analyze the contents of the packets, including sensitive information such as usernames, passwords, and other data. Packet sniffing can be used for both legitimate purposes, such as network troubleshooting and performance monitoring, as well as malicious activities, such as eavesdropping and stealing data. To mitigate the risks associated with packet sniffing, encryption protocols such as HTTPS and VPNs are commonly used to protect sensitive information from being intercepted.
